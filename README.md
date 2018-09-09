@@ -1,5 +1,7 @@
 # ASPNetCoreApiExample
 Small example showing the base functionality of the restful api by example
+The example contains an ASP.NET Core API Service, which runs inside a linux docker container
+The example also contains a Client-Library, which contains a Client which allows you to communicate with the API Service
 
 ## Prequesits
 * .NET Standard 2.0
