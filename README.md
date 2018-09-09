@@ -11,4 +11,7 @@ Small example showing the base functionality of the restful api by example
   * Chose the installed edition and press change, add the ASP.NET Workload
 * Have atleast .NET 4.6.1 installed
 
+## Client
+Use the ClientClass in your ClientApplication to communicate with the API
+
 
