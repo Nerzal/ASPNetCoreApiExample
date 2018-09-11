@@ -11563,11 +11563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tobias\\Documents\\Visual Studio 2017\\Projects\\FileReceiverExample\\FileReceiverExample\\FileReceiverExample.csproj",
+      "projectUniqueName": "C:\\git\\private\\ASPNetCoreApiExample\\FileReceiverExample\\FileReceiverExample.csproj",
       "projectName": "FileReceiverExample",
-      "projectPath": "C:\\Users\\Tobias\\Documents\\Visual Studio 2017\\Projects\\FileReceiverExample\\FileReceiverExample\\FileReceiverExample.csproj",
+      "projectPath": "C:\\git\\private\\ASPNetCoreApiExample\\FileReceiverExample\\FileReceiverExample.csproj",
       "packagesPath": "C:\\Users\\Tobias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tobias\\Documents\\Visual Studio 2017\\Projects\\FileReceiverExample\\FileReceiverExample\\obj\\",
+      "outputPath": "C:\\git\\private\\ASPNetCoreApiExample\\FileReceiverExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11586,8 +11586,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Tobias\\Documents\\Visual Studio 2017\\Projects\\FileReceiverExample\\FileReceiverExample.Models\\FileReceiverExample.Models.csproj": {
-              "projectPath": "C:\\Users\\Tobias\\Documents\\Visual Studio 2017\\Projects\\FileReceiverExample\\FileReceiverExample.Models\\FileReceiverExample.Models.csproj"
+            "C:\\git\\private\\ASPNetCoreApiExample\\FileReceiverExample.Models\\FileReceiverExample.Models.csproj": {
+              "projectPath": "C:\\git\\private\\ASPNetCoreApiExample\\FileReceiverExample.Models\\FileReceiverExample.Models.csproj"
             }
           }
         }

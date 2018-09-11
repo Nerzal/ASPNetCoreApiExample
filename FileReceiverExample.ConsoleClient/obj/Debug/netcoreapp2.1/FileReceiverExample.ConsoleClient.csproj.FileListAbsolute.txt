@@ -1,0 +1,14 @@
+C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.ConsoleClient\bin\Debug\netcoreapp2.1\FileReceiverExample.ConsoleClient.deps.json
+C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.ConsoleClient\bin\Debug\netcoreapp2.1\FileReceiverExample.ConsoleClient.runtimeconfig.json
+C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.ConsoleClient\bin\Debug\netcoreapp2.1\FileReceiverExample.ConsoleClient.runtimeconfig.dev.json
+C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.ConsoleClient\bin\Debug\netcoreapp2.1\FileReceiverExample.ConsoleClient.dll
+C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.ConsoleClient\bin\Debug\netcoreapp2.1\FileReceiverExample.Models.dll
+C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.ConsoleClient\bin\Debug\netcoreapp2.1\FileReceiverExample.Models.pdb
+C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.ConsoleClient\obj\Debug\netcoreapp2.1\FileReceiverExample.ConsoleClient.csprojAssemblyReference.cache
+C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.ConsoleClient\obj\Debug\netcoreapp2.1\FileReceiverExample.ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.ConsoleClient\obj\Debug\netcoreapp2.1\FileReceiverExample.ConsoleClient.AssemblyInfoInputs.cache
+C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.ConsoleClient\obj\Debug\netcoreapp2.1\FileReceiverExample.ConsoleClient.AssemblyInfo.cs
+C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.ConsoleClient\obj\Debug\netcoreapp2.1\FileReceiverExample.ConsoleClient.csproj.CopyComplete
+C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.ConsoleClient\bin\Debug\netcoreapp2.1\FileReceiverExample.ConsoleClient.pdb
+C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.ConsoleClient\obj\Debug\netcoreapp2.1\FileReceiverExample.ConsoleClient.dll
+C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.ConsoleClient\obj\Debug\netcoreapp2.1\FileReceiverExample.ConsoleClient.pdb

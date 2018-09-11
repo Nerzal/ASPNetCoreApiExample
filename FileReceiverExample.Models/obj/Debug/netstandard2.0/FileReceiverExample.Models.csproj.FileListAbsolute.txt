@@ -1,9 +1,17 @@
 C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.Models\bin\Debug\netstandard2.0\FileReceiverExample.Models.deps.json
 C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.Models\bin\Debug\netstandard2.0\FileReceiverExample.Models.dll
 C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.Models\bin\Debug\netstandard2.0\FileReceiverExample.Models.pdb
-C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.Models\obj\Debug\netstandard2.0\FileReceiverExample.Models.csprojAssemblyReference.cache
 C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.Models\obj\Debug\netstandard2.0\FileReceiverExample.Models.csproj.CoreCompileInputs.cache
 C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.Models\obj\Debug\netstandard2.0\FileReceiverExample.Models.AssemblyInfoInputs.cache
 C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.Models\obj\Debug\netstandard2.0\FileReceiverExample.Models.AssemblyInfo.cs
 C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.Models\obj\Debug\netstandard2.0\FileReceiverExample.Models.dll
 C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample.Models\obj\Debug\netstandard2.0\FileReceiverExample.Models.pdb
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample.Models\bin\Debug\netstandard2.0\FileReceiverExample.Models.deps.json
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample.Models\bin\Debug\netstandard2.0\FileReceiverExample.Models.dll
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample.Models\bin\Debug\netstandard2.0\FileReceiverExample.Models.pdb
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample.Models\obj\Debug\netstandard2.0\FileReceiverExample.Models.csprojAssemblyReference.cache
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample.Models\obj\Debug\netstandard2.0\FileReceiverExample.Models.csproj.CoreCompileInputs.cache
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample.Models\obj\Debug\netstandard2.0\FileReceiverExample.Models.AssemblyInfoInputs.cache
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample.Models\obj\Debug\netstandard2.0\FileReceiverExample.Models.AssemblyInfo.cs
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample.Models\obj\Debug\netstandard2.0\FileReceiverExample.Models.dll
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample.Models\obj\Debug\netstandard2.0\FileReceiverExample.Models.pdb

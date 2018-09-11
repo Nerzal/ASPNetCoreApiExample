@@ -16,3 +16,21 @@ C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileRe
 C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample\bin\Debug\netcoreapp2.1\FileReceiverExample.Models.dll
 C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample\bin\Debug\netcoreapp2.1\FileReceiverExample.Models.pdb
 C:\Users\Tobias\Documents\Visual Studio 2017\Projects\FileReceiverExample\FileReceiverExample\obj\Debug\netcoreapp2.1\FileReceiverExample.csproj.CopyComplete
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample\bin\Debug\netcoreapp2.1\FileReceiverExample.deps.json
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample\bin\Debug\netcoreapp2.1\FileReceiverExample.runtimeconfig.json
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample\bin\Debug\netcoreapp2.1\FileReceiverExample.runtimeconfig.dev.json
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample\bin\Debug\netcoreapp2.1\FileReceiverExample.dll
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample\bin\Debug\netcoreapp2.1\FileReceiverExample.pdb
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample\bin\Debug\netcoreapp2.1\FileReceiverExample.Models.dll
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample\bin\Debug\netcoreapp2.1\FileReceiverExample.Models.pdb
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample\obj\Debug\netcoreapp2.1\FileReceiverExample.csprojAssemblyReference.cache
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample\obj\Debug\netcoreapp2.1\FileReceiverExample.csproj.CoreCompileInputs.cache
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample\obj\Debug\netcoreapp2.1\FileReceiverExample.RazorAssemblyInfo.cache
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample\obj\Debug\netcoreapp2.1\FileReceiverExample.RazorAssemblyInfo.cs
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample\obj\Debug\netcoreapp2.1\FileReceiverExample.AssemblyInfoInputs.cache
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample\obj\Debug\netcoreapp2.1\FileReceiverExample.AssemblyInfo.cs
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample\obj\Debug\netcoreapp2.1\FileReceiverExample.RazorTargetAssemblyInfo.cache
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample\obj\Debug\netcoreapp2.1\FileReceiverExample.csproj.CopyComplete
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample\obj\Debug\netcoreapp2.1\FileReceiverExample.dll
+C:\git\private\ASPNetCoreApiExample\FileReceiverExample\obj\Debug\netcoreapp2.1\FileReceiverExample.pdb
